@@ -4,7 +4,9 @@
   "compilerOptions": {
     "outDir": "dist",
     "rootDir": "src",
-    "composite": true
+    "composite": true,
+    "strictNullChecks2": true
+
   },
   "include": [
     "src"
