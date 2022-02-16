@@ -40,7 +40,7 @@
   "dependencies": {
     "debug": "^4.3.3",
     "tslib": "^2.3.1",
-    "typeorm": "git+ssh://git@github.com:FernandoEcloud/typeorm.git"
+    "typeorm": "git+ssh://git@github.com:FernandoEcloud/typeorm-package.git"
   },
   "devDependencies": {
     "@loopback/boot": "^4.1.0",
