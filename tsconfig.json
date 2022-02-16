@@ -5,7 +5,7 @@
     "outDir": "dist",
     "rootDir": "src",
     "composite": true,
-    "strictNullChecks2": true
+    "strictNullChecks": true
 
   },
   "include": [
